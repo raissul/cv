@@ -1007,7 +1007,7 @@ form .check-block label{
 	vertical-align: middle;
 	width: 4px;
 	height: 4px;
-	background: #fd7030;
+	background: #3dff77;
 	margin-right: 5px;
 }
 
@@ -1171,11 +1171,11 @@ form .check-block label{
 }
 
 .main-nav .navigation li.stories a:after{
-	content: '04';
+	content: '03';
 }
 
 .main-nav .navigation li.contact a:after{
-	content: '04';
+	content: '03';
 }
 
 .main-nav .navigation li:hover > a:after,
