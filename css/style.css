@@ -52,7 +52,7 @@ body {
 a{
 	text-decoration:none;
 	cursor:pointer;
-	color:#fd7030;
+	color:#12b57f;
 }
 
 a:hover,
@@ -162,7 +162,7 @@ ul,li{
 	line-height: 24px;
 	text-align: center;
 	text-transform: uppercase;
-	background: #fd7030;
+	background: #12b57f;
 	letter-spacing: 0.03em;
 	border-radius: 7px;
 	overflow: hidden;
@@ -185,7 +185,7 @@ ul,li{
 	margin: 0;
 	line-height: 24px;
 	padding: 9px 35px 11px;
-	color: #fd7030;
+	color: #12b57f;
 	font-weight: 500;
 	font-size: 18px;
 	text-align: center;
@@ -211,7 +211,7 @@ ul,li{
 }
 
 .theme_color{
-	color:#fd7030;	
+	color:#12b57f;	
 }
 
 .light-font{
@@ -287,7 +287,12 @@ img{
 	z-index:100;
 	cursor:pointer;
 	border-radius:4px;
-	background:#fd7030;
+
+
+	background:#1a4cf1;
+
+
+	
 	display:none;
 	-webkit-transition:all 300ms ease;
 	-ms-transition:all 300ms ease;
@@ -383,7 +388,7 @@ form input[type="search"]:focus,
 form input[type="file"]:focus,
 form select:focus,
 form textarea:focus{
-	border-color:#fd7030;
+	border-color:#12b57f;
 }
 
 form textarea{
@@ -593,7 +598,7 @@ form .check-block label{
 	border: 5px solid #adacab;
 	padding-left: 5px;
 	padding-right: 40px;
-	background: #fd7030;
+	background: #12b57f;
 }
 
 .mode-switch .switcher .switch-btn .circle{
@@ -717,7 +722,7 @@ form .check-block label{
 	vertical-align: middle;
 	width: 4px;
 	height: 4px;
-	background: #fd7030;
+	background: #12b57f;
 	margin-right: 5px;
 }
 
@@ -734,7 +739,7 @@ form .check-block label{
 	height: 40px;
 	line-height: 39px;
 	text-align: center;
-	background: #fd7030;
+	background: #12b57f;
 	cursor: pointer;
 	border-radius: 5px 5px 0 0;
 }
@@ -753,7 +758,7 @@ form .check-block label{
 	left: 0px;
 	top: 40px;
 	height: auto;
-	border: 3px solid #fd7030;
+	border: 3px solid #12b57f;
 	border-top: 0;
 	background: #ffffff;
 	border-radius: 0 0 5px 5px;
@@ -796,7 +801,7 @@ form .check-block label{
 }
 
 .mobile-header .social-links .links li a:hover{
-	color: #fd7030;
+	color: #12b57f;
 }
 
 .mobile-header .nav-toggler{
@@ -902,7 +907,7 @@ form .check-block label{
 	height: 40px;
 	line-height: 39px;
 	text-align: center;
-	background: #fd7030;
+	background: #12b57f;
 	cursor: pointer;
 	border-radius: 0 0 0 5px;
 }
@@ -922,7 +927,7 @@ form .check-block label{
 	top: 0;
 	width: 143px;
 	height: 40px;
-	border: 3px solid #fd7030;
+	border: 3px solid #12b57f;
 	border-left: 0;
 	background: #ffffff;
 	border-radius: 0 5px 0 0;
@@ -966,7 +971,7 @@ form .check-block label{
 }
 
 .left-bar .social-links .links li a:hover{
-	color: #fd7030;
+	color: #12b57f;
 }
 
 .left-bar .left-upper .info{
@@ -1007,7 +1012,7 @@ form .check-block label{
 	vertical-align: middle;
 	width: 4px;
 	height: 4px;
-	background: #3dff77;
+	background: #bb0101;
 	margin-right: 5px;
 }
 
@@ -1185,7 +1190,7 @@ form .check-block label{
 	padding: 10px 10px;
 	border-left-color: rgba(0,0,0,0.0);
 	color: #ffffff;
-	background: #fd7030;
+	background: #12b57f;
 	border-radius: 10px 0 0 10px;
 }
 
@@ -1250,7 +1255,7 @@ form .check-block label{
 	background: #ffffff;
 	padding: 4px 18px;
 	line-height: 42px;
-	color: #fd7030;
+	color: #12b57f;
 }
 
 .home-content{
@@ -1280,7 +1285,7 @@ form .check-block label{
 }
 
 .right-content .download-cv .theme-btn:hover{
-	background: #fd7030;
+	background: #02b939;
 	color: #ffffff;
 }
 
@@ -1293,7 +1298,7 @@ form .check-block label{
 	height: 50px;
 	line-height: 50px;
 	text-align: center;
-	background: #fd7030;
+	background: #02b939;
 	border-right: 1px solid rgba(255,255,255,0.50);
 	color: #ffffff;
 	border-radius: 7px 0 0 7px;
@@ -1377,7 +1382,7 @@ form .check-block label{
 	display:block;
 	width:0px;
 	height:8px;
-	background:#fd7030;
+	background:#12b57f;
 	-webkit-transition:all 2000ms ease;
 	-ms-transition:all 2000ms ease;
 	-o-transition:all 2000ms ease;
@@ -1393,7 +1398,7 @@ form .check-block label{
 	width:50px;
 	height:30px;
 	background:#ffffff;
-	color:#fd7030;
+	color:#12b57f;
 	line-height:30px;
 	font-size:14px;
 	font-weight:500;
@@ -1439,7 +1444,7 @@ form .check-block label{
 	top: 1px;
 	width: 20px;
 	height: 24px;
-	background: url('../images/resource/icons/orange/check-2.png') left center no-repeat;
+	background: url('../images/resource/icons/orange/check-2.gif') left center no-repeat;
 	background-size: auto 18px;
 	opacity: 1;
 	-moz-transition:all 0.3s ease;
@@ -1474,7 +1479,7 @@ form .check-block label{
 }
 
 .feature-block .inner-box:hover{
-	border-color:#fd7030;
+	border-color:#12b57f;
 }
 
 .feature-block .inner-box:before{
@@ -1483,8 +1488,8 @@ form .check-block label{
 	right: -1px;
 	top: -1px;
 	border: 6px solid rgba(0,0,0,0);
-	border-top: 6px solid #fd7030;
-	border-right: 6px solid #fd7030;
+	border-top: 6px solid #12b57f;
+	border-right: 6px solid #12b57f;
 }
 
 .feature-block .inner-box:hover .icon-box{
@@ -1514,7 +1519,7 @@ form .check-block label{
 
 .feature-block h5{
 	position: relative;
-	color: #fd7030;
+	color: #12b57f;
 	line-height: 1.1em;
 	margin-bottom: 10px;
 }
@@ -1569,12 +1574,12 @@ form .check-block label{
     height: 80px;
     padding: 20px 10px;
     font-size: 20px;
-    color: #495369;
+    color: #12b57f;
     font-weight: 500;
     line-height: 40px;
     background: #ffffff;
     border-radius: 50%;
-    box-shadow: 0 0 5px 0 rgba(0,0,0,0.10);
+    box-shadow: 0 0 5px 0 rgba(241, 236, 236, 0.1);
 }
 
 .language-block .text{
@@ -1641,7 +1646,7 @@ form .check-block label{
 	margin-left: -32px;
 	bottom: -21px;
 	width: 64px;
-	border-bottom: 3px solid #fd7030;
+	border-bottom: 3px solid #12b57f;
 }
 
 .testimonials .image-box .image:after{
@@ -1651,7 +1656,7 @@ form .check-block label{
 	margin-left: -7px;
 	bottom: -35px;
 	border: 7px solid rgba(0,0,0,0);
-	border-top: 7px solid #fd7030;
+	border-top: 7px solid #12b57f;
 }
 
 .testimonials .content-box .text{
@@ -1703,7 +1708,7 @@ form .check-block label{
 
 .testimonials .owl-theme .owl-dots .owl-dot:hover span,
 .testimonials .owl-theme .owl-dots .owl-dot.active span{
-    background: #fd7030;
+    background: #12b57f;
 }
 
 
@@ -1781,14 +1786,14 @@ form .check-block label{
 }
 
 .contact-content .info-box .info-block .inner-box:hover{
-	border-color: #fd7030;
+	border-color: #12b57f;
 }
 
 .contact-content .info-block .icon{
 	position: relative;
 	display: block;
 	font-size: 18px;
-	color: #fd7030;
+	color: #12b57f;
 	line-height: 24px;
 	margin-bottom: 5px;
 	-moz-transition:all 0.5s ease;
@@ -1809,7 +1814,7 @@ form .check-block label{
 }
 
 .contact-content .info-block a:hover{
-	color: #fd7030;
+	color: #12b57f;
 }
 
 .contact-content .form-box{
@@ -1987,8 +1992,8 @@ form .check-block label{
 .mixitup-gallery .filters .filter.active,
 .mixitup-gallery .filters .filter:hover{
 	color: #ffffff;
-	border-color: #fd7030;
-	background-color: #fd7030;
+	border-color: #12b57f;
+	background-color: #12b57f;
 }
 
 .mix{
@@ -2008,7 +2013,7 @@ form .check-block label{
 .portfolio-section .portfolio-block .image{
 	position: relative;
 	display: block;
-	background: #fd7030;
+	background: #12b57f;
 	border-radius: 10px;
 	-moz-transition:all 0.7s ease;
 	-webkit-transition:all 0.7s ease;
@@ -2042,7 +2047,7 @@ form .check-block label{
 	top: 0;
 	width: 100%;
 	height: 100%;
-	background: #fd7030;
+	background: #12b57f;
 	border-radius: 10px;
 	transition: -webkit-transform 0.4s ease;
 	transition: transform 0.4s ease;
@@ -2087,7 +2092,7 @@ form .check-block label{
 }
 
 .portfolio-section .portfolio-block .hvr-upper .theme-btn:hover{
-	color: #fd7030;
+	color: #12b57f;
 	background: #ffffff;
 }
 
@@ -2131,7 +2136,7 @@ form .check-block label{
 	letter-spacing: 0.05em;
 	text-transform: uppercase;
 	background: #ffffff;
-	color: #fd7030;
+	color: #12b57f;
 	border-radius: 3px;
 }
 
@@ -2197,7 +2202,7 @@ form .check-block label{
 .project-detail .text-col .info li strong{
 	font-weight: 700;
 	text-transform: capitalize;
-	color: #fd7030;
+	color: #12b57f;
 	padding-right: 10px;
 }
 
@@ -2431,8 +2436,8 @@ form .check-block label{
 }
 
 .news-block-two .inner-box:hover{
-	background: #fd7030;
-	border-color: #fd7030;
+	background: #12b57f;
+	border-color: #12b57f;
 }
 
 .news-block-two .image{
@@ -2622,7 +2627,7 @@ form .check-block label{
 	font-size: 28px;
 	text-align: center;
 	color: #ffffff;
-	background: #fd7030;
+	background: #12b57f;
 	border-radius: 5px;
 	float: left;
 	margin: 0 25px 5px 0;
@@ -2633,7 +2638,7 @@ form .check-block label{
 	display: block;
 	padding: 0 0 0 70px;
 	margin: 0 0 30px;
-	border-left: 4px solid #fd7030;
+	border-left: 4px solid #12b57f;
 	font-size: 22px;
 	color: #495369;
 	line-height: 1.2em;
@@ -2705,7 +2710,7 @@ form .check-block label{
 .post-detail .comment-block .info .name{
 	position: relative;
 	font-size: 18px;
-	color: #fd7030;
+	color: #12b57f;
 	font-weight: 500;
 	padding-right: 20px;
 }
@@ -2851,14 +2856,14 @@ form .check-block label{
 }
 
 .resume-content .award-block:hover .date span{
-	background: #fd7030;
+	background: #12b57f;
 	color: #ffffff;
 }
 
 .resume-content .award-block h5{
 	position: relative;
 	font-weight: 500;
-	color: #fd7030;
+	color: #12b57f;
 	margin-bottom: 5px;
 }
 
@@ -2948,7 +2953,7 @@ form .check-block label{
 }
 
 .resume-content .expertise-block ul li:hover{
-	color: #fd7030;
+	color: #12b57f;
 }
 
 .resume-content .expertise-block ul li:before{
@@ -3057,14 +3062,14 @@ form .check-block label{
 }
 
 .resume-content .edu-block:hover .date span{
-	background: #fd7030;
+	background: #12b57f;
 	color: #ffffff;
 }
 
 .resume-content .edu-block h5{
 	position: relative;
 	font-weight: 500;
-	color: #fd7030;
+	color: #12b57f;
 	margin-bottom: 5px;
 }
 
@@ -3145,7 +3150,7 @@ form .check-block label{
 	height: 74px;
 	line-height: 70px;
 	text-align: center;
-	border: 2px solid #fd7030;
+	border: 2px solid #12b57f;
 	border-radius: 50%;
 	margin: 0 auto 16px;
 	-moz-transition:all 0.3s ease;
@@ -3156,7 +3161,7 @@ form .check-block label{
 }
 
 .resume-content .interest-block:hover .icon-box{
-	background: #fd7030;
+	background: #12b57f;
 }
 
 .resume-content .interest-block .icon-box .icon{
