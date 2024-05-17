@@ -3023,6 +3023,72 @@ form .check-block label{
 	margin: 0 0;
 }
 
+
+
+							/*
+							training
+							*/
+
+.resume-content .training{
+	position: relative;
+	border-top: 1px solid #eeedf2;
+	border-left: 1px solid #eeedf2;
+	margin-bottom: 50px;
+}
+
+.resume-content .training .main-title{
+	position: absolute;
+	left: 25px;
+	top: -20px;
+	padding: 0 20px;
+	padding-left: 70px;
+	height: 40px;
+	line-height: 40px;
+	background: #ffffff;
+}
+
+.resume-content .training:hover .main-title .icon{
+	-webkit-transform: scale(-1) rotate(180deg);
+    -moz-transform: scale(-1) rotate(180deg);
+    -ms-transform: scale(-1) rotate(180deg);
+    -o-transform: scale(-1) rotate(180deg);
+    transform: scale(-1) rotate(180deg);
+}
+
+.resume-content .training .main-title .icon{
+	position: absolute;
+	left: 20px;
+	top: 0;
+	transition: all 500ms ease;
+    -moz-transition: all 500ms ease;
+    -webkit-transition: all 500ms ease;
+    -ms-transition: all 500ms ease;
+    -o-transition: all 500ms ease;
+}
+
+.resume-content .training .main-title .icon img{
+	position: relative;
+	display: block;
+	max-height: 32px;
+}
+
+.resume-content .training .main-title .txt{
+	position: relative;
+	color: #495369;
+	font-size: 18px;
+	text-transform: uppercase;
+	font-weight: 600;
+}
+
+.resume-content .training .row{
+	margin: 0 0;
+}
+
+								/*
+								training
+								*/
+
+
 .resume-content .edu-block{
 	position: relative;
 	padding: 0 0;
